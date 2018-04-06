@@ -1,0 +1,22 @@
+{
+  "name": "browser-auto-logging",
+  "version": "1.0.0",
+  "description": "浏览器UI测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yezhang/BrowserAutoLogging.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yezhang/BrowserAutoLogging/issues"
+  },
+  "homepage": "https://github.com/yezhang/BrowserAutoLogging#readme",
+  "dependencies": {
+    "puppeteer": "^1.2.0"
+  }
+}
